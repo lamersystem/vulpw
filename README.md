@@ -17,6 +17,8 @@ pip install -r requirements.txt
 - choose your options and enter your password
 - relax and watch the checker check your password
 
+### you can also use this tool in Termux also
+
 ### Terminal Help
 ```
 - git clone https://github.com/codekushi/vulpw.git
@@ -25,8 +27,7 @@ pip install -r requirements.txt
 - python3 checker.py
 - choose your options and enter the password
 ```
-### you can also use this tool in Termux also
 
 ## The Password lists are collected from [Seclists](https://github.com/danielmiessler/SecLists)
 
-If the Checker has very small leaked password lists its yet to get updated.This is just an simple program just looking over text,for better results you can visit [HaveIbeenPwned](https://haveibeenpwned.com).I will try to update the password list. frequently
+If the Checker has very small leaked password lists its yet to get updated.This is just an simple program just looking over text,for better results you can visit [HaveIbeenPwned](https://haveibeenpwned.com).I will try to update the password list, frequently
