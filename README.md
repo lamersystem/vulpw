@@ -17,7 +17,7 @@ pip install -r requirements.txt
 - choose your options and enter your password
 - relax and watch the checker check your password
 
-### you can also use this tool in Termux also
+### For Android you can also use this tool in Termux also
 
 ### Terminal Help
 ```
