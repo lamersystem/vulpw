@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 ## The Password lists are collected from [Seclists](https://github.com/danielmiessler/SecLists)
 
-If the Checker has very small leaked password lists its yet to get updated.This is just an simple program just looking over text,for better results you can visit [HaveIbeenPwned](https://haveibeenpwned.com).I will try to update the password list, frequently
+If the Checker has very small leaked password lists its yet to get updated.This is just an simple program just looking over text,for better results you can visit [HaveIbeenPwned](https://haveibeenpwned.com).I will try to update the password list, frequently.
