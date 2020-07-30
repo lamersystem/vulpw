@@ -30,4 +30,6 @@ pip install -r requirements.txt
 
 ## The Password lists are collected from [Seclists](https://github.com/danielmiessler/SecLists)
 
+- The program doesn't tell the safety or the strength of the password, it simply verify if the password has been breached or not
+
 If the Checker has very small leaked password lists its yet to get updated.This is just an simple program just looking over text,for better results you can visit [HaveIbeenPwned](https://haveibeenpwned.com).I will try to update the password list, frequently.
