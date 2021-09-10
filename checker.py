@@ -9,7 +9,6 @@ print(Fore.MAGENTA+'''
   |   |   |      | |        |_______/   |   |   |   |
    | |    |      | |        |            | |     | |
     |     \______/ \_______ |             |       |
--by Kushwanth
 ''')
 
 #choosing an option

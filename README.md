@@ -1,6 +1,6 @@
 # vulpw
 ## A Password Vulnerability checker
-![checker image](https://github.com/codekushi/vulpw/blob/master/vulpw-tem.png?raw=true)
+![checker image](https://github.com/kushwanth/vulpw/blob/master/vulpw-tem.png?raw=true)
 
 ### The Checker is uses PYTHON3
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### Terminal Help
 ```
-- git clone https://github.com/codekushi/vulpw.git
+- git clone https://github.com/kushwanth/vulpw.git
 - cd vulpw
 - pip install -r requirements.txt
 - python3 checker.py
