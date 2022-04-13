@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ### Terminal Help
 ```
-- git clone https://github.com/kushwanth/vulpw.git
+- git clone https://github.com/lamersystem/vulpw.git
 - cd vulpw
 - pip install -r requirements.txt
 - python3 checker.py
